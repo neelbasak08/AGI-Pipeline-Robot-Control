@@ -209,4 +209,10 @@ margin(numc,denc), grid on %Bode plot of closed loop TF with lag compensator
 figure
 margin(NumPID_CLP,DenPID_CLP), grid on % Bode plot of closed loop TF with PID controller
 
-
+%++++++++++++++++++++++++++++++++++
+%   April 10,2022 Shankhaneel B.  +
+%   sbasak_be18@thapar.edu        +
+%   Mechanical Engineering        +
+%   TIET Patiala                  +
+%   Please use this code with proper citation of the real author Mr. Shankhaneel Basak, TIET Patiala, Mechanical Engineering Undergraduate  +
+%++++++++++++++++++++++++++++++++++
